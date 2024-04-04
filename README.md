@@ -1,8 +1,11 @@
-# ppt
+**Autopsy**: https://github.com/oddin-forensic/autopsy-sample-case/tree/master
 
+**DD | DCFLDD**: https://dftt.sourceforge.net/test8/index.html
 
-https://docs.google.com/presentation/d/1wQTzUd7I1_fFnj5smy8FUeoyZYeO2ZhjxPIi9UxmGzA/edit?usp=drivesdk
+**Files Folder**: https://drive.google.com/drive/folders/12ubuVyiU8-4uSRC_Ip4XV1UMFlSkT_oI?usp=sharing
 
+**Commands**: https://docs.google.com/document/d/1UZ76jEfS0egFBz80UytDH2bLn0l0b5GaluOvBVbYBPQ/edit?usp=sharing
 
+**ram analysis**: https://drive.usercontent.google.com/download?id=1bER4wmHP_LAMgdB52LGkb8x2Mf8hG3V6&export=download
 
-https://drive.google.com/drive/folders/1Zqv76ciEN7yxN_pNmyaa1NmplKPLPgv7
+**USBDeview**: https://usbdeview.en.softonic.com/
