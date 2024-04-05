@@ -9,3 +9,8 @@
 **ram analysis**: https://drive.usercontent.google.com/download?id=1bER4wmHP_LAMgdB52LGkb8x2Mf8hG3V6&export=download
 
 **USBDeview**: https://usbdeview.en.softonic.com/
+
+
+
+
+https://docs.google.com/spreadsheets/d/1FJo5QV8DLA07J3KM6Al4zUqmLJw8_HhYstIZ57rota8/edit?usp=sharing
